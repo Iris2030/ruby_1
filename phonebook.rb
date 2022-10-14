@@ -15,7 +15,7 @@ def add_contact(contact)
     puts "The contact was successfully created!"
 
     File.open("phonebook.txt", "w") do |file|
-        file.write("\n#{$phonebook.contacts}")
+        file.write("\n#{$phonebook.contacts.join("\n")}")
         end
     
 end
