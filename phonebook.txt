@@ -1,4 +1,2 @@
 
-{"first_name"=>"Iryna", "last_name"=>"Bazhynova", "email"=>"trumpumpum", "telephone"=>"83380-3883-3883"}
-{"first_name"=>"ww", "last_name"=>"ww", "email"=>"ww", "telephone"=>"ww"}
-{"first_name"=>"gg", "last_name"=>"gg", "email"=>"gg", "telephone"=>"gg"}
+[{"first_name"=>"Iryna", "last_name"=>"Bazhynova", "email"=>"trumpumpum", "telephone"=>"83380-3883-3883"}]
